@@ -1,4 +1,4 @@
-# 2018年HTML+CSS+JS课设
+# School-Test
 
-大二上期末课程设计仓库
+2018年（大二）HTML+CSS+JS课设
 
